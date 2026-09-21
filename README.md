@@ -14,9 +14,9 @@ I’m passionate about creating secure, user-friendly systems and empowering oth
 ## 🎯 Goals
 
 - ✅ Earn CompTIA ITF+ (Completed)
+- ✅ Earn CompTIA A+ (Completed)
 - 🔄 Network and Cloud Security Cisco track (Bachelor's of Science)
-- 🎓 Enrolled  in Computer Science Program 
-- 💼 Land a role in an Entry-Level Cybersecurity Internship/position by 2026
+- 💼 Land a role in an Entry-Level IT/Cybersecurity Internship/position by 2027
 
 ---
 
